@@ -28,7 +28,7 @@ product-based company.
   
   <p align="">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanmandal-M&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NehaS101&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br /><br />
   </p>
       
@@ -38,10 +38,10 @@ product-based company.
   <p>
     <a href="https://github.com/Amanmandal-M"><span>
         <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmandal-M&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=NehaS101&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
           <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=Amanmandal-M&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=NehaS101&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
       </span></a>
   </p>
@@ -85,10 +85,10 @@ product-based company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/aman-kumar-657080101/" target="_blank">
+     <a href="" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://Amanmandal-M.github.io" target="_blank">
+      <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
      
      </div>
