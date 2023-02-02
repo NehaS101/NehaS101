@@ -18,7 +18,7 @@ product-based company.
       
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Aman Kumar 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hello! I am Neha Solanki 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
  
  
@@ -68,13 +68,13 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1lyYfuQk3gqFDxPVYotKnOvk06lADgI8h/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://amanmandal-m.github.io/" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & DSA*
       
-      - 📫 How to reach me **amanmandal644@gmail.com**
+      - 📫 How to reach me ****
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
