@@ -4,7 +4,7 @@
       
    <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">Hello, I'm Neha Solanki <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amanmandal-M&label=Profile%20views&color=9130c2&style=flat" alt="Error" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=NehaS101&label=Profile%20views&color=9130c2&style=flat" alt="Error" /> </p>
       
    <h3 align="center">An analytical and detail-oriented aspiring
 Backend Developer. Capable of
@@ -36,7 +36,7 @@ product-based company.
 
   
   <p>
-    <a href="https://github.com/Amanmandal-M"><span>
+    <a href="https://github.com/NehaS101"><span>
         <img align="left" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=NehaS101&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
@@ -152,9 +152,9 @@ product-based company.
     
   
   <p align="center">
-    <a href="https://github.com/Amanmandal-M"><span>
+    <a href="https://github.com/NehaS101"><span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanmandal-M&theme=github_dark" width="100%" />
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NehaS101&theme=github_dark" width="100%" />
       </span></a>
   </p>
   
