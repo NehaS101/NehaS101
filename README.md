@@ -65,10 +65,8 @@ product-based company.
    - 🔭 I’m currently pursuing Full Stack Web Development
       
    - 🌱 I’m currently learning at Masai
-      
-      - 📄 Check out my <a href="" target="_blank" >Resume</a>
-      
-      - 💻 Know more about me <a href="" target="_blank"  >Portfolio</a>
+            
+      - 💻 Know more about me <a href="https://nehas101.github.io/" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, NodeJs, ExpressJS, MongoDB & DSA*
       
