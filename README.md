@@ -84,7 +84,7 @@ product-based company.
      <a href="https://www.linkedin.com/in/neha-solanki-291640257/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="" target="_blank">
+      <a href="https://nehas101.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
      
      </div>
