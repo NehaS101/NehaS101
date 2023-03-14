@@ -5,12 +5,14 @@
       
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=NehaS101&label=Profile%20views&color=9130c2&style=flat" alt="Error" /> </p>
       
-   <h3 align="left">An analytical and detail-oriented aspiring
-Backend Developer. Capable of
-writing production-ready code using
-NodeJs. Passionate about coding
-and intensely interested in working in a
-product-based company.
+   <h3 align="left">A Self-motivated, hard-working
+& enthusiastic full-stack web
+developer.Expertise in creating
+customized UI designs and
+improving website navigation.
+Had built individual and group
+projects with more than 1200+
+hrs of coding experience.
 </h3>
       
    
