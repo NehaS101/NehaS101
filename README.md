@@ -100,6 +100,7 @@ hrs of coding experience.
       <h2 align="center">🚀 Languages and Tools:</h2>
       <br/>
       <div align="center">
+  
        
        <div align="center"><h3 align="center">Frontend</h3>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
