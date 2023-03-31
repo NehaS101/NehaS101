@@ -22,7 +22,7 @@ hrs of coding experience.
       </p>
  
  
-<img align="right" width=200px height=180px alt="side_sticker"
+<img align="right" margin-top="30px" width=200px height=180px alt="side_sticker"
   src="https://media2.giphy.com/media/pOZhmE42D1WrCWATLK/200w.webp?cid=ecf05e471lcb997ijrwdvvtprgdb1re5kqb4c4w2kajclz5f&rid=200w.webp&ct=g" />
   <br /> 
   
