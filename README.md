@@ -7,10 +7,9 @@
       
    <h3 align="left">A Self-motivated, hard-working
 & enthusiastic full-stack web
-developer.Expertise in creating
+developer. Expertise in creating
 customized UI designs and
-improving website navigation.
-Had built individual and group
+improving website navigation. Built individual and group
 projects with more than 1200+
 hrs of coding experience.
 </h3>
@@ -24,7 +23,7 @@ hrs of coding experience.
  
  
 <img align="right" width=200px height=250px alt="side_sticker"
-  src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  src="https://media2.giphy.com/media/pOZhmE42D1WrCWATLK/200w.webp?cid=ecf05e471lcb997ijrwdvvtprgdb1re5kqb4c4w2kajclz5f&rid=200w.webp&ct=g" />
   <br /> 
   
   <p align="">
