@@ -134,7 +134,6 @@ hrs of coding experience.
             <br/>
           <br/>
           <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" align="center" alt="codesandbox"/>
-         
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
           <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" align="center" alt="replit"/>
           <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" align="center" alt="canva"/>
