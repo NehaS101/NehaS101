@@ -64,9 +64,7 @@ hrs of coding experience.
       
    ## 🙋‍♂️ About Me
       
-   - 🔭 I’m currently pursuing Full Stack Web Development
-      
-   - 🌱 I’m currently learning at Masai
+   - 🔭 I’m Full Stack Web Developer
             
       - 💻 Know more about me <a href="https://nehas101.github.io/" target="_blank"  >Portfolio</a>
       
